@@ -1,0 +1,24 @@
+{
+    "Home":"Inicio",
+    "About":"Sobre Mí",
+    "Projects":"Portafolio",
+    "Contact": "Contacto",
+    "No Projects": "Sin Proyectos",
+    "Create Project":"Crear Proyecto",
+    "Title Project":"Titulo Proyecto",
+    "Url Project": "URL del Proyecto",
+    "Description Project": "Descripción del Proyecto",
+    "Save Project":"Guardar Proyecto",
+    "Edit Project":"Modificar Proyecto",
+    "Delete Project":"Eliminar Proyecto",
+    "Logout":"Salir",
+    "Your Name": "Nombre",
+    "Your email":"Correo electronico",
+    "Subject":"Asunto del mensaje",
+    "Content": "Contenido",
+    "Submit Message": "Enviar Mensaje",
+    "Go back":"Regresar",
+    "Contact me":"Contáctame",
+    "About me": "¿Quien Soy?"
+
+}
